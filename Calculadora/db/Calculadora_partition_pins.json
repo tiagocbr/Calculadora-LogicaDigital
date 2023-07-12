@@ -1,0 +1,257 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "hex40",
+					"strict" : false
+				},
+				{
+					"name" : "hex41",
+					"strict" : false
+				},
+				{
+					"name" : "hex42",
+					"strict" : false
+				},
+				{
+					"name" : "hex43",
+					"strict" : false
+				},
+				{
+					"name" : "hex44",
+					"strict" : false
+				},
+				{
+					"name" : "hex45",
+					"strict" : false
+				},
+				{
+					"name" : "hex46",
+					"strict" : false
+				},
+				{
+					"name" : "hex20",
+					"strict" : false
+				},
+				{
+					"name" : "hex21",
+					"strict" : false
+				},
+				{
+					"name" : "hex22",
+					"strict" : false
+				},
+				{
+					"name" : "hex23",
+					"strict" : false
+				},
+				{
+					"name" : "hex24",
+					"strict" : false
+				},
+				{
+					"name" : "hex25",
+					"strict" : false
+				},
+				{
+					"name" : "hex26",
+					"strict" : false
+				},
+				{
+					"name" : "hex00",
+					"strict" : false
+				},
+				{
+					"name" : "hex01",
+					"strict" : false
+				},
+				{
+					"name" : "hex02",
+					"strict" : false
+				},
+				{
+					"name" : "hex03",
+					"strict" : false
+				},
+				{
+					"name" : "hex04",
+					"strict" : false
+				},
+				{
+					"name" : "hex05",
+					"strict" : false
+				},
+				{
+					"name" : "hex06",
+					"strict" : false
+				},
+				{
+					"name" : "hex10",
+					"strict" : false
+				},
+				{
+					"name" : "hex11",
+					"strict" : false
+				},
+				{
+					"name" : "hex12",
+					"strict" : false
+				},
+				{
+					"name" : "hex13",
+					"strict" : false
+				},
+				{
+					"name" : "hex14",
+					"strict" : false
+				},
+				{
+					"name" : "hex15",
+					"strict" : false
+				},
+				{
+					"name" : "hex16",
+					"strict" : false
+				},
+				{
+					"name" : "ledr0",
+					"strict" : false
+				},
+				{
+					"name" : "ledr1",
+					"strict" : false
+				},
+				{
+					"name" : "ledr9",
+					"strict" : false
+				},
+				{
+					"name" : "ledr5",
+					"strict" : false
+				},
+				{
+					"name" : "hex30",
+					"strict" : false
+				},
+				{
+					"name" : "hex32",
+					"strict" : false
+				},
+				{
+					"name" : "hex33",
+					"strict" : false
+				},
+				{
+					"name" : "hex34",
+					"strict" : false
+				},
+				{
+					"name" : "hex35",
+					"strict" : false
+				},
+				{
+					"name" : "hex36",
+					"strict" : false
+				},
+				{
+					"name" : "hex50",
+					"strict" : false
+				},
+				{
+					"name" : "hex51",
+					"strict" : false
+				},
+				{
+					"name" : "hex52",
+					"strict" : false
+				},
+				{
+					"name" : "hex53",
+					"strict" : false
+				},
+				{
+					"name" : "hex54",
+					"strict" : false
+				},
+				{
+					"name" : "hex55",
+					"strict" : false
+				},
+				{
+					"name" : "hex56",
+					"strict" : false
+				},
+				{
+					"name" : "ledr8",
+					"strict" : false
+				},
+				{
+					"name" : "ledr7",
+					"strict" : false
+				},
+				{
+					"name" : "ledr6",
+					"strict" : false
+				},
+				{
+					"name" : "x1",
+					"strict" : false
+				},
+				{
+					"name" : "x3",
+					"strict" : false
+				},
+				{
+					"name" : "x0",
+					"strict" : false
+				},
+				{
+					"name" : "x2",
+					"strict" : false
+				},
+				{
+					"name" : "raizz",
+					"strict" : false
+				},
+				{
+					"name" : "y3",
+					"strict" : false
+				},
+				{
+					"name" : "y1",
+					"strict" : false
+				},
+				{
+					"name" : "y0",
+					"strict" : false
+				},
+				{
+					"name" : "y2",
+					"strict" : false
+				},
+				{
+					"name" : "divv",
+					"strict" : false
+				},
+				{
+					"name" : "mutt",
+					"strict" : false
+				},
+				{
+					"name" : "subb",
+					"strict" : false
+				},
+				{
+					"name" : "signalY",
+					"strict" : false
+				},
+				{
+					"name" : "signalX",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
